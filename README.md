@@ -1,6 +1,6 @@
 # ShootDatCube
 > Vincent RODRIGUEZ
-## Jeu 3D OpenGL
+## Jeu 3D avec OpenGL
 
 **Explications :**
 * **Fonctionne seulement en résolution 800x600** (la résolution par défaut).
