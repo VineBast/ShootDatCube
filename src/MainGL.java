@@ -14,6 +14,7 @@ import com.jogamp.opengl.util.FPSAnimator;
 public class MainGL {
 	public static void main(String[] args) {
 		JFrame frame = new JFrame();
+		frame.setResizable(false);
 		GLCanvas canvas = new GLCanvas();
 		GLHandler events = new GLHandler();
 		canvas.addMouseListener(new UserMouse(events));
